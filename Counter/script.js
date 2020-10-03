@@ -45,4 +45,5 @@ function resetCounter(){
   second.innerHTML = n2;
   n3 = 0;
   third.innerHTML = n3;
+  pauseCounter();
 } 
